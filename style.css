@@ -1,0 +1,10 @@
+body {
+	background-color: #e5beed;
+	text-align: center;
+	font-family: 'Annie Use Your Telescope';
+	font-size: 30px;
+}
+
+.option {
+	border-radius: 10px;
+}
